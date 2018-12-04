@@ -17,6 +17,6 @@ Web Application Development
 
 ### Lessons Learned in the Assignment:
 1. (All jQuery statements start with a $ sign.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+2. (Understanding jQuery framework and attributes.)
+3. (Web development with jQuery.)
 
